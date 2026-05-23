@@ -8,4 +8,5 @@ Study notes for PTE exam preparation.
 - [Adjectives](Adjectives.md)
 - [British vs US Convention](British-US.md)
 - [Nouns](Nouns.md)
+- [Tenses](Tenses.md)
 - [Verbs](Verbs.md)
