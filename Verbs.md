@@ -10,23 +10,16 @@ Here is the breakdown of the verb forms ($V_1$, $V_2$, $V_3$, $V_4$) with simple
 
 - What it is: The original, dictionary form of the verb. Used for general truths, habits, and plural subjects in the present tense.
 
-- Examples:
-
-  - contribute: They contribute money to the charity every year.
-
-  - destroy: Pollution can destroy ecosystems.
-
-  - cut: Please cut the cake.
-
-  - run: Athletes run marathons.
-
-  - give: Parents give advice to their children.
-
-  - speak: Many people speak English fluently.
-
-  - break: Be careful not to break the glass.
-
-  - go: We go to college daily.
+| Verb | Example |
+| --- | --- |
+| contribute | They contribute money to the charity every year. |
+| destroy | Pollution can destroy ecosystems. |
+| cut | Please cut the cake. |
+| run | Athletes run marathons. |
+| give | Parents give advice to their children. |
+| speak | Many people speak English fluently. |
+| break | Be careful not to break the glass. |
+| go | We go to college daily. |
 
 ---
 
@@ -36,23 +29,16 @@ Here is the breakdown of the verb forms ($V_1$, $V_2$, $V_3$, $V_4$) with simple
 
 - Note: Regular verbs end in -ed (e.g., contributed, destroyed), while irregular verbs change completely (e.g., gave, ran, spoke).
 
-- Examples:
-
-  - contributed: She contributed a brilliant idea to the project yesterday.
-
-  - destroyed: The fire destroyed the building last night.
-
-  - cut: He cut his finger while cooking. (Stays the same!)
-
-  - run $\rightarrow$ ran: He ran fast to catch the bus.
-
-  - give $\rightarrow$ gave: My friend gave me a gift.
-
-  - speak $\rightarrow$ spoke: The professor spoke about economics.
-
-  - break $\rightarrow$ broke: The child broke the toy.
-
-  - go $\rightarrow$ went: They went to London last summer.
+| Verb | Example |
+| --- | --- |
+| contributed | She contributed a brilliant idea to the project yesterday. |
+| destroyed | The fire destroyed the building last night. |
+| cut | He cut his finger while cooking. (Stays the same!) |
+| run $\rightarrow$ ran | He ran fast to catch the bus. |
+| give $\rightarrow$ gave | My friend gave me a gift. |
+| speak $\rightarrow$ spoke | The professor spoke about economics. |
+| break $\rightarrow$ broke | The child broke the toy. |
+| go $\rightarrow$ went | They went to London last summer. |
 
 ---
 
@@ -64,45 +50,31 @@ The participle form is divided into two types:
 
 - What it is: Used in Perfect Tenses (with has/have/had) or in Passive Voice.
 
-- Examples:
-
-  - given: She has given her best performance.
-
-  - spoken: English is spoken all over the world (Passive).
-
-  - contributed: They have contributed significantly to the research.
-
-  - destroyed: The storm had destroyed the crops before it stopped.
-
-  - cut: The rope was cut into pieces.
-
-  - run: He has run five miles today.
-
-  - broken: The window is broken.
-
-  - gone: They have already gone home.
+| Verb | Example |
+| --- | --- |
+| given | She has given her best performance. |
+| spoken | English is spoken all over the world (Passive). |
+| contributed | They have contributed significantly to the research. |
+| destroyed | The storm had destroyed the crops before it stopped. |
+| cut | The rope was cut into pieces. |
+| run | He has run five miles today. |
+| broken | The window is broken. |
+| gone | They have already gone home. |
 
 ### $V_3(b)$ Present Participle ($V_1$ + ing)
 
 - What it is: Used in Continuous Tenses (with is/am/are/was/were) to show an ongoing action.
 
-- Examples:
-
-  - contributing: Technology is contributing to global connectivity.
-
-  - destroying: Humans are accidentally destroying natural habitats.
-
-  - cutting: He is cutting the paper.
-
-  - giving: The company is giving a discount this week.
-
-  - speaking: The tutor is speaking clearly.
-
-  - running: Children are running in the park.
-
-  - breaking: The waves are breaking against the rocks.
-
-  - going: I am going to the exam center.
+| Verb | Example |
+| --- | --- |
+| contributing | Technology is contributing to global connectivity. |
+| destroying | Humans are accidentally destroying natural habitats. |
+| cutting | He is cutting the paper. |
+| giving | The company is giving a discount this week. |
+| speaking | The tutor is speaking clearly. |
+| running | Children are running in the park. |
+| breaking | The waves are breaking against the rocks. |
+| going | I am going to the exam center. |
 
 ---
 
@@ -110,23 +82,16 @@ The participle form is divided into two types:
 
 - What it is: Although your notes mention "plural form", grammatically, adding -s/-es creates the singular present form. It is used ONLY when the subject is a singular person or thing (He, She, It, John, The company) in the present tense.
 
-- Examples:
-
-  - contributes: Everyone contributes to the discussion.
-
-  - cuts: A diamond cuts another diamond.
-
-  - gives: The sun gives us light.
-
-  - runs: Time runs out quickly.
-
-  - destroys: Anger destroys peace of mind.
-
-  - speaks: She speaks three languages.
-
-  - breaks: He always breaks his promises.
-
-  - goes: He goes to library every Sunday.
+| Verb | Example |
+| --- | --- |
+| contributes | Everyone contributes to the discussion. |
+| cuts | A diamond cuts another diamond. |
+| gives | The sun gives us light. |
+| runs | Time runs out quickly. |
+| destroys | Anger destroys peace of mind. |
+| speaks | She speaks three languages. |
+| breaks | He always breaks his promises. |
+| goes | He goes to library every Sunday. |
 
 ---
 
