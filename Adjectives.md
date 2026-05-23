@@ -2,7 +2,7 @@
 
 An Adjective is a word that describes or modifies a noun (a person, place, or thing).
 
-In English, adjectives change their form to show comparison. There are three degrees of comparison: Positive, Comparative, and Superlative. Understanding these is essential for PTE Reading (Fill in the Blanks) and Writing.
+Adjectives change their form to show comparison. There are three degrees of comparison: Positive, Comparative, and Superlative. Understanding these is essential for PTE Reading (Fill in the Blanks) and Writing.
 
 ---
 

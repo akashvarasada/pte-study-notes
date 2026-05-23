@@ -1,6 +1,6 @@
 # Verbs
 
-Verbs show an action or motion. In English, a single verb changes its form based on the tense and whether the subject is singular or plural. Understanding these forms is crucial for the PTE exam (especially for Fill in the Blanks and Write From Dictation).
+Verbs show an action or motion. A single verb changes its form based on the tense and whether the subject is singular or plural. Understanding these forms is crucial for the PTE exam (especially for Fill in the Blanks and Write From Dictation).
 
 Here is the breakdown of the verb forms ($V_1$, $V_2$, $V_3$, $V_4$) with simple explanations and expanded examples.
 
