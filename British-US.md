@@ -78,7 +78,6 @@
 | Mould           | Mold           | Shape/form fungus                | MOHLD                   | MOHLD              |
 | Plough          | Plow           | Farming tool                     | PLOW                    | PLOW               |
 | Kerb            | Curb           | Edge of pavement                 | KERB                    | KERB               |
-| Jewellery       | Jewelry        | Ornaments                        | JOO-ul-ree              | JOO-ul-ree         |
 | Cosy            | Cozy           | Comfortable                      | KOH-zee                 | KOH-zee            |
 | Mum             | Mom            | Mother                           | MUM                     | MAHM               |
 | Maths           | Math           | Mathematics                      | MATHS                   | MATH               |
