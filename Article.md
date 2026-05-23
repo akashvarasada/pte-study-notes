@@ -1,5 +1,26 @@
 # Article
 
+## Overview of Articles
+
+| Article Type | Article | Used for | Meaning |
+| --- | --- | --- | --- |
+| Definite | THE | specified nouns | Used for specified nouns. |
+| Indefinite | A, AN | generalized noun | Used for a generalized noun. |
+
+## 7 Rules for "THE"
+
+| Rule | Definition | Example | Explanation / Note |
+| --- | --- | --- | --- |
+| 1st Rule: Specify Noun | Used to specify a noun (idea, person, places, things). | ***The students** in IIT are best.* | We are specifying the students which are studying in IIT. |
+| 2nd Rule: Singular or Plural Specified Nouns | "THE" can be used for both singular or plural specified nouns. | ***The Business*** (It should be specific)<br><br>***The Businesses*** (It should be specific) | Both singular and plural nouns can take "THE" when they are specific. |
+| 3rd Rule: Mixed Nouns in a Single Sentence | "THE" can come with singular & plural both noun in a single sentence. | ***The child** is cooperative with **the elders**.* | We are talking about a specific child & specific elders {specific}. |
+| 4th Rule: Shared Information / Listener's Knowledge | When listener already know the information, it is specific for those user. In such case Article 'THE' should be used. | *Are you going to **the party** at Tim's House tomorrow?* | Party is specified one which is at Tim's House. Specified party, hence **The Party**. |
+| 5th Rule: Uncounted Nouns | 'THE' article can come before Uncounted nouns. | *He ate all **the candies** from **the basket**.*<br><br>*He ate all **the sugar**.* | We do not know the count of the candies here, that's why 'THE' came before candies.<br><br>Sugar cannot be counted in this context. |
+| 6th Rule: Group of Places | Article 'THE' will come before group of places. | ~~*The America*~~ *(false)*<br><br>***The United States of America*** **(True)** {group of states}<br><br>***The United nations*** **(True)** {group of nations}<br><br>~~*The london*~~ **false**<br><br>~~*The India*~~ **false** | Use "THE" before group of places, not usually before single country/city names. |
+| 7th Rule: Unique / Un-common Nouns | 'The' Article will always comes with Unique/Un-common nouns. | The Stars<br><br>The Sun<br><br>The Universe<br><br>The World<br><br>The Economy<br><br>*All **the stars** are not visible from my room.* {Unique noun}<br><br>***The Sun** gives us light.* | Use "THE" with Unique/Un-common nouns. |
+
+---
+
 ## Quick Tips & Tricks
 
 | Rule / Trick                          | Use                      | Example               |
