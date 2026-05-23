@@ -6,6 +6,7 @@ Study notes for PTE exam preparation.
 
 - [Active Passive Voice](Active-Passive-Voice.md)
 - [Adjectives](Adjectives.md)
+- [Article](Article.md)
 - [British vs US Convention](British-US.md)
 - [Nouns](Nouns.md)
 - [Tenses](Tenses.md)
