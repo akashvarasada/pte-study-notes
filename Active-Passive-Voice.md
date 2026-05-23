@@ -44,96 +44,50 @@ PTE often tests complex structures like modals, imperatives, dual objects, and v
 
 ### Category A: Modals, Gerunds & Infinitives
 
-1. **Active:** You must hand in the assignment by Friday.
-
-   **Passive:** The assignment **must be handed** in by Friday.
-
-2. **Active:** The management ought to have rewarded the employees.
-
-   **Passive:** The employees **ought to have been rewarded** by the management.
-
-3. **Active:** I remember my grandfather telling me stories.
-
-   **Passive:** I remember **being told** stories by my grandfather.
-
-4. **Active:** The professor expects us to complete the research tonight.
-
-   **Passive:** The research **is expected to be completed** tonight.
+| No. | Active | Passive |
+| --- | --- | --- |
+| 1 | You must hand in the assignment by Friday. | The assignment **must be handed** in by Friday. |
+| 2 | The management ought to have rewarded the employees. | The employees **ought to have been rewarded** by the management. |
+| 3 | I remember my grandfather telling me stories. | I remember **being told** stories by my grandfather. |
+| 4 | The professor expects us to complete the research tonight. | The research **is expected to be completed** tonight. |
 
 ### Category B: Verbs with Two Objects (Direct & Indirect)
 
-5. **Active:** The committee granted him a scholarship.
-
-   **Passive (Preferred):** He **was granted** a scholarship by the committee.
-
-   **Passive (Alternative):** A scholarship **was granted to** him by the committee.
-
-6. **Active:** The company sent the clients a monthly newsletter.
-
-   **Passive:** The clients **were sent** a monthly newsletter by the company.
+| No. | Active | Passive |
+| --- | --- | --- |
+| 5 | The committee granted him a scholarship. | **Passive (Preferred):** He **was granted** a scholarship by the committee.<br>**Passive (Alternative):** A scholarship **was granted to** him by the committee. |
+| 6 | The company sent the clients a monthly newsletter. | The clients **were sent** a monthly newsletter by the company. |
 
 ### Category C: Imperative Sentences (Orders, Requests, Advice)
 
-7. **Active:** Shut the door immediately.
-
-   **Passive:** **Let** the door **be shut** immediately.
-
-8. **Active:** Do not standardise the test results yet.
-
-   **Passive:** **Let** the test results **not be standardised** yet.
-
-9. **Active:** Please maintain silence in the examination hall.
-
-   **Passive:** You **are requested to maintain** silence in the examination hall.
+| No. | Active | Passive |
+| --- | --- | --- |
+| 7 | Shut the door immediately. | **Let** the door **be shut** immediately. |
+| 8 | Do not standardise the test results yet. | **Let** the test results **not be standardised** yet. |
+| 9 | Please maintain silence in the examination hall. | You **are requested to maintain** silence in the examination hall. |
 
 ### Category D: Prepositional Verbs & Phrasal Verbs
 
-10. **Active:** The researchers are looking into the matter.
-
-    **Passive:** The matter **is being looked into** by the researchers. *(Don't drop the preposition!)*
-
-11. **Active:** They laughed at his presentation.
-
-    **Passive:** His presentation **was laughed at** by them.
+| No. | Active | Passive |
+| --- | --- | --- |
+| 10 | The researchers are looking into the matter. | The matter **is being looked into** by the researchers. *(Don't drop the preposition!)* |
+| 11 | They laughed at his presentation. | His presentation **was laughed at** by them. |
 
 ### Category E: "It is said / believed / expected" (Impersonal Passives)
 
-12. **Active:** People believe that the climate is changing rapidly.
-
-    **Passive:** **It is believed that** the climate is changing rapidly.
-
-    **Passive (Advanced):** The climate **is believed to be changing** rapidly.
-
-13. **Active:** Experts say that archaeologists found a new ancient site.
-
-    **Passive:** **It is said that** a new ancient site was found by archaeologists.
+| No. | Active | Passive |
+| --- | --- | --- |
+| 12 | People believe that the climate is changing rapidly. | **It is believed that** the climate is changing rapidly.<br>**Passive (Advanced):** The climate **is believed to be changing** rapidly. |
+| 13 | Experts say that archaeologists found a new ancient site. | **It is said that** a new ancient site was found by archaeologists. |
 
 ### Category F: Advanced/Tricky Tense Shifting
 
-14. **Active:** Nobody has ever climbed this mountain peak before.
-
-    **Passive:** This mountain peak **has never been climbed** before. *(Note: "Nobody" turns into a negative sentence structure).*
-
-15. **Active:** Did the software upgrade fix the system bug?
-
-    **Passive:** **Was** the system bug **fixed** by the software upgrade?
-
-16. **Active:** Who wrote this groundbreaking academic paper?
-
-    **Passive:** **By whom was** this groundbreaking academic paper **written**?
-
-17. **Active:** They are going to build a new laboratory next semester.
-
-    **Passive:** A new laboratory **is going to be built** next semester.
-
-18. **Active:** One cannot gather grapes from thistles.
-
-    **Passive:** Grapes **cannot be gathered** from thistles.
-
-19. **Active:** Someone was following us through the campus.
-
-    **Passive:** We **were being followed** through the campus.
-
-20. **Active:** The security guard checks everyone's ID card at the gate.
-
-    **Passive:** Everyone's ID card **is checked** at the gate by the security guard.
+| No. | Active | Passive |
+| --- | --- | --- |
+| 14 | Nobody has ever climbed this mountain peak before. | This mountain peak **has never been climbed** before. *(Note: "Nobody" turns into a negative sentence structure).* |
+| 15 | Did the software upgrade fix the system bug? | **Was** the system bug **fixed** by the software upgrade? |
+| 16 | Who wrote this groundbreaking academic paper? | **By whom was** this groundbreaking academic paper **written**? |
+| 17 | They are going to build a new laboratory next semester. | A new laboratory **is going to be built** next semester. |
+| 18 | One cannot gather grapes from thistles. | Grapes **cannot be gathered** from thistles. |
+| 19 | Someone was following us through the campus. | We **were being followed** through the campus. |
+| 20 | The security guard checks everyone's ID card at the gate. | Everyone's ID card **is checked** at the gate by the security guard. |
