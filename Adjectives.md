@@ -1,4 +1,4 @@
-# English Adjectives: Degrees of Comparison (PTE Prep)
+# Adjectives
 
 An Adjective is a word that describes or modifies a noun (a person, place, or thing).
 

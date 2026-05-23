@@ -1,4 +1,4 @@
-# English Nouns: Types and Word Endings (PTE Prep)
+# Nouns
 
 A Noun is a word that names a person, place, thing, or abstract idea.
 
